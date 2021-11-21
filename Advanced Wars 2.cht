@@ -75,4 +75,264 @@
         <code>42022696 0063</code>
         <code>00000032 000C</code>
     </cheat>
+    <cheat type="cb" name="Unit 1 Codes - Infinite Health" enabled="false">
+        <code>32022694 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 1 Codes - Infinite Rounds" enabled="false">
+        <code>32022695 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 1 Codes - Infinite Rations" enabled="false">
+        <code>32022696 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 1 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022691 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 2 Codes - Infinite Health" enabled="false">
+        <code>320226A0 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 2 Codes - Infinite Rounds" enabled="false">
+        <code>320226A1 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 2 Codes - Infinite Rations" enabled="false">
+        <code>320226A2 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 2 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>3202269D 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 3 Codes - Infinite Health" enabled="false">
+        <code>320226AC 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 3 Codes - Infinite Rounds" enabled="false">
+        <code>320226AD 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 3 Codes - Infinite Rations" enabled="false">
+        <code>320226AE 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 3 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226A9 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 4 Codes - Infinite Health" enabled="false">
+        <code>320226B8 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 4 Codes - Infinite Rounds" enabled="false">
+        <code>320226B9 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 4 Codes - Infinite Rations" enabled="false">
+        <code>320226BA 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 4 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226B5 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 5 Codes - Infinite Health" enabled="false">
+        <code>320226C4 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 5 Codes - Infinite Rounds" enabled="false">
+        <code>320226C5 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 5 Codes - Infinite Rations" enabled="false">
+        <code>320226C6 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 5 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226C1 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 6 Codes - Infinite Health" enabled="false">
+        <code>320226D0 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 6 Codes - Infinite Rounds" enabled="false">
+        <code>320226D1 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 6 Codes - Infinite Rations" enabled="false">
+        <code>320226D2 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 6 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226CD 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 7 Codes - Infinite Health" enabled="false">
+        <code>320226DC 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 7 Codes - Infinite Rounds" enabled="false">
+        <code>320226DD 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 7 Codes - Infinite Rations" enabled="false">
+        <code>320226DE 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 7 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226D9 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 8 Codes - Infinite Health" enabled="false">
+        <code>320226E8 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 8 Codes - Infinite Rounds" enabled="false">
+        <code>320226E9 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 8 Codes - Infinite Rations" enabled="false">
+        <code>320226EA 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 8 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226E5 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 9 Codes - Infinite Health" enabled="false">
+        <code>320226F4 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 9 Codes - Infinite Rounds" enabled="false">
+        <code>320226F5 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 9 Codes - Infinite Rations" enabled="false">
+        <code>320226F6 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 9 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226F1 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 10 Codes - Infinite Health" enabled="false">
+        <code>32022700 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 10 Codes - Infinite Rounds" enabled="false">
+        <code>32022701 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 10 Codes - Infinite Rations" enabled="false">
+        <code>32022702 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 10 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>320226FD 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 11 Codes - Infinite Health" enabled="false">
+        <code>3202270C 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 11 Codes - Infinite Rounds" enabled="false">
+        <code>3202270D 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 11 Codes - Infinite Rations" enabled="false">
+        <code>3202270E 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 11 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022709 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 12 Codes - Infinite Health" enabled="false">
+        <code>32022718 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 12 Codes - Infinite Rounds" enabled="false">
+        <code>32022719 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 12 Codes - Infinite Rations" enabled="false">
+        <code>3202271A 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 12 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022715 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 13 Codes - Infinite Health" enabled="false">
+        <code>32022724 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 13 Codes - Infinite Rounds" enabled="false">
+        <code>32022725 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 13 Codes - Infinite Rations" enabled="false">
+        <code>32022726 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 13 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022721 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 14 Codes - Infinite Health" enabled="false">
+        <code>32022730 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 14 Codes - Infinite Rounds" enabled="false">
+        <code>32022731 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 14 Codes - Infinite Rations" enabled="false">
+        <code>32022732 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 14 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>3202272D 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 15 Codes - Infinite Health" enabled="false">
+        <code>3202273C 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 15 Codes - Infinite Rounds" enabled="false">
+        <code>3202273D 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 15 Codes - Infinite Rations" enabled="false">
+        <code>3202273E 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 15 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022739 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 16 Codes - Infinite Health" enabled="false">
+        <code>32022748 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 16 Codes - Infinite Rounds" enabled="false">
+        <code>32022749 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 16 Codes - Infinite Rations" enabled="false">
+        <code>3202274A 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 16 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022745 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 17 Codes - Infinite Health" enabled="false">
+        <code>32022754 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 17 Codes - Infinite Rounds" enabled="false">
+        <code>32022755 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 17 Codes - Infinite Rations" enabled="false">
+        <code>32022756 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 17 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022751 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 18 Codes - Infinite Health" enabled="false">
+        <code>32022760 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 18 Codes - Infinite Rounds" enabled="false">
+        <code>32022761 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 18 Codes - Infinite Rations" enabled="false">
+        <code>32022762 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 18 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>3202275D 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 19 Codes - Infinite Health" enabled="false">
+        <code>3202276C 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 19 Codes - Infinite Rounds" enabled="false">
+        <code>3202276D 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 19 Codes - Infinite Rations" enabled="false">
+        <code>3202276E 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 19 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022769 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unit 20 Codes - Infinite Health" enabled="false">
+        <code>32022778 00E4</code>
+    </cheat>
+    <cheat type="cb" name="Unit 20 Codes - Infinite Rounds" enabled="false">
+        <code>32022779 0094</code>
+    </cheat>
+    <cheat type="cb" name="Unit 20 Codes - Infinite Rations" enabled="false">
+        <code>3202277A 0063</code>
+    </cheat>
+    <cheat type="cb" name="Unit 20 Codes - Infinite Moves" enabled="false">
+        <code>73003334 0006</code>
+        <code>32022775 0000</code>
+    </cheat>
 </cheats>
