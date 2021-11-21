@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<cheats>
+  <cheat type="cb" name="Master Code – Must Be On" enabled="false">
+    <code>1006C992 0007</code>
+  </cheat>
+  <cheat type="cb" name="Always Day 1" enabled="false">
+    <code>33004420 0001</code>
+  </cheat>
+  <cheat type="cb" name="Infinite Coins" enabled="false">
+    <code>8201227C FFFF</code>
+  </cheat>
+  <cheat type="cb" name="P1 Infinite G" enabled="false">
+    <code>8201AB9C 423F</code>
+    <code>8201AB9E 000F</code>
+  </cheat>
+  <cheat type="cb" name="P1 No G" enabled="false">
+    <code>8201AB9C 0000</code>
+    <code>8201AB9E 0000</code>
+  </cheat>
+  <cheat type="cb" name="P1 Infinite CO Power" enabled="false">
+    <code>8201ABBC FFFF</code>
+  </cheat>
+  <cheat type="cb" name="P1 No CO Power" enabled="false">
+    <code>8201ABBC 0000</code>
+  </cheat>
+
+  <cheat type="cb" name="Move All Around The Map" enabled="false">
+    <code>830036D8 0101</code>
+    <code>830036DA 0101</code>
+  </cheat>
+  <cheat type="cb" name="P2 Has No Buildings Captured" enabled="false">
+    <code>3201AC14 0000</code>
+  </cheat>
+  <cheat type="cb" name="No Fog Of War" enabled="false">
+    <code>3300431D 0000</code>
+  </cheat>
+  <cheat type="cb" name="Always Fog Of War" enabled="false">
+    <code>3300431D 0001</code>
+  </cheat>
+  <cheat type="cb" name="Always Get S Rank" enabled="false">
+    <code>3201ABCA 0015</code>
+  </cheat>
+  <cheat type="cb" name="Press Select To Win Capture Battles" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201ABAC 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 1 Codes" enabled="false">
+    <code>32019F44 0064</code>
+    <code>32019F46 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 2 Codes" enabled="false">
+    <code>32019F50 0064</code>
+    <code>32019F52 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 3 Codes" enabled="false">
+    <code>32019F5C 0064</code>
+    <code>32019F5E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 4 Codes" enabled="false">
+    <code>32019F68 0064</code>
+    <code>32019F6A 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 5 Codes" enabled="false">
+    <code>32019F74 0064</code>
+    <code>32019F76 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 6 Codes" enabled="false">
+    <code>32019F80 0064</code>
+    <code>32019F82 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 7 Codes" enabled="false">
+    <code>32019F8C 0064</code>
+    <code>32019F8E 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 8 Codes" enabled="false">
+    <code>32019F98 0064</code>
+    <code>32019F9A 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 9 Codes" enabled="false">
+    <code>32019FA4 0064</code>
+    <code>32019FA6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 10 Codes" enabled="false">
+    <code>32019FB0 0064</code>
+    <code>32019FB2 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 11 Codes" enabled="false">
+    <code>32019FBC 0064</code>
+    <code>32019FBE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 12 Codes" enabled="false">
+    <code>32019FC8 0064</code>
+    <code>32019FCA 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 13 Codes" enabled="false">
+    <code>32019FD4 0064</code>
+    <code>32019FD6 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 14 Codes" enabled="false">
+    <code>32019FE0 0064</code>
+    <code>32019FE2 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 15 Codes" enabled="false">
+    <code>32019FF8 0064</code>
+    <code>32019FFA 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 16 Codes" enabled="false">
+    <code>3201A004 0064</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 17 Codes" enabled="false">
+    <code>3201A010 0064</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 18 Codes" enabled="false">
+    <code>3201A01C 0064</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 19 Codes" enabled="false">
+    <code>3201A028 0064</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Unit 20 Codes" enabled="false">
+    <code>3201A034 0064</code>
+    <code>32019FEE 0063</code>
+  </cheat>
+  <cheat type="cb" name="Your Ammo Code Press L" enabled="false">
+    <code>74000130 01FF</code>
+    <code>32019F45 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F51 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F5D 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F69 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F75 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F81 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F8D 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019F99 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FA5 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FB1 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FBD 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FC9 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FD5 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FE1 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FED 00F5</code>
+    <code>74000130 01FF</code>
+    <code>32019FF9 00F5</code>
+    <code>74000130 01FF</code>
+    <code>3201A005 00F5</code>
+    <code>74000130 01FF</code>
+    <code>3201A011 00F5</code>
+    <code>74000130 01FF</code>
+    <code>3201A01D 00F5</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 1 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A244 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A245 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A246 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 2 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A250 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A251 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A252 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 3 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A25C 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A25D 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A25E 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 4 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A268 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A269 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A26A 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 5 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A274 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A275 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A276 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 6 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A280 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A281 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A282 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 7 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A28C 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A28D 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A28E 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 8 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A298 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A299 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A29A 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 9 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2A4 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2A5 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2A6 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 10 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2B0 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2B1 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2B2 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 11 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2BC 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2BD 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2BE 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 12 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2C8 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2C9 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2CA 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 13 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2D4 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2D5 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2D6 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 14 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2E0 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2E1 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2E2 0001</code>
+  </cheat>
+  <cheat type="cb" name="Enemy Unit Select 15 Codes" enabled="false">
+    <code>74000130 03FB</code>
+    <code>3201A2EC 0001</code>
+    <code>74000130 03FB</code>
+    <code>3201A2ED 0000</code>
+    <code>74000130 03FB</code>
+    <code>3201A2EE 0001</code>
+  </cheat>
+  <cheat type="cb" name="Always Nell" enabled="false">
+    <code>8201ABB8 0000</code>
+  </cheat>
+  <cheat type="cb" name="Always Andy" enabled="false">
+    <code>8201ABB8 0100</code>
+  </cheat>
+  <cheat type="cb" name="Always Max" enabled="false">
+    <code>8201ABB8 0200</code>
+  </cheat>
+  <cheat type="cb" name="Always Olaf" enabled="false">
+    <code>8201ABB8 0300</code>
+  </cheat>
+  <cheat type="cb" name="Always Sami" enabled="false">
+    <code>8201ABB8 0400</code>
+  </cheat>
+  <cheat type="cb" name="Always Grit" enabled="false">
+    <code>8201ABB8 0500</code>
+  </cheat>
+  <cheat type="cb" name="Always Kanbei" enabled="false">
+    <code>8201ABB8 0600</code>
+  </cheat>
+  <cheat type="cb" name="Always Sonja" enabled="false">
+    <code>8201ABB8 0700</code>
+  </cheat>
+  <cheat type="cb" name="Always Eagle" enabled="false">
+    <code>8201ABB8 0800</code>
+  </cheat>
+  <cheat type="cb" name="Always Drake" enabled="false">
+    <code>8201ABB8 0900</code>
+  </cheat>
+  <cheat type="cb" name="Always Sturm" enabled="false">
+    <code>8201ABB8 0A00</code>
+  </cheat>
+  <cheat type="cb" name="Nell Always CO" enabled="false">
+    <code>3201ABB9 0000</code>
+  </cheat>
+  <cheat type="cb" name="Andy Always CO" enabled="false">
+    <code>3201ABB9 0001</code>
+  </cheat>
+  <cheat type="cb" name="Max Always CO" enabled="false">
+    <code>3201ABB9 0002</code>
+  </cheat>
+  <cheat type="cb" name="Olaf Always CO" enabled="false">
+    <code>3201ABB9 0003</code>
+  </cheat>
+  <cheat type="cb" name="Sami Always CO" enabled="false">
+    <code>3201ABB9 0004</code>
+  </cheat>
+  <cheat type="cb" name="Grit Always CO" enabled="false">
+    <code>3201ABB9 0005</code>
+  </cheat>
+  <cheat type="cb" name="Kanbei Always CO" enabled="false">
+    <code>3201ABB9 0006</code>
+  </cheat>
+  <cheat type="cb" name="Sonja Always CO" enabled="false">
+    <code>3201ABB9 0007</code>
+  </cheat>
+  <cheat type="cb" name="Eagle Always CO" enabled="false">
+    <code>3201ABB9 0008</code>
+  </cheat>
+  <cheat type="cb" name="Drake Always CO" enabled="false">
+    <code>3201ABB9 0009</code>
+  </cheat>
+  <cheat type="cb" name="Sturm Always CO" enabled="false">
+    <code>3201ABB9 000A</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Nell" enabled="false">
+    <code>3201AC21 0000</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Andy" enabled="false">
+    <code>3201AC21 0001</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Max" enabled="false">
+    <code>3201AC21 0002</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Olaf" enabled="false">
+    <code>3201AC21 0003</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Sami" enabled="false">
+    <code>3201AC21 0004</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Grit" enabled="false">
+    <code>3201AC21 0015</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Kanbei" enabled="false">
+    <code>3201AC21 0006</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Sonja" enabled="false">
+    <code>3201AC21 0007</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Eagle" enabled="false">
+    <code>3201AC21 0008</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Drake" enabled="false">
+    <code>3201AC21 0009</code>
+  </cheat>
+  <cheat type="cb" name="Play Against Sturm" enabled="false">
+    <code>3201AC21 000A</code>
+  </cheat>
+  <cheat type="cb" name="P2 Infinite G" enabled="false">
+    <code>8201AC04 423F</code>
+    <code>8201AC06 000F</code>
+  </cheat>
+  <cheat type="cb" name="P2 No G" enabled="false">
+    <code>8201AC04 0000</code>
+    <code>8201AC06 0000</code>
+  </cheat>
+  <cheat type="cb" name="P3 Infinite G" enabled="false">
+    <code>8201AC6C 423F</code>
+    <code>8201AC6E 000F</code>
+  </cheat>
+  <cheat type="cb" name="P3 No G" enabled="false">
+    <code>8201AC6C 0000</code>
+    <code>8201AC6E 0000</code>
+  </cheat>
+  <cheat type="cb" name="P4 Infinite G" enabled="false">
+    <code>8201ACD4 423F</code>
+    <code>8201ACD6 000F</code>
+  </cheat>
+  <cheat type="cb" name="P4 No G" enabled="false">
+    <code>8201ACD4 0000</code>
+    <code>8201ACD6 0000</code>
+  </cheat>
+  <cheat type="cb" name="P2 Infinite CO Power" enabled="false">
+    <code>8201AC24 FFFF</code>
+  </cheat>
+  <cheat type="cb" name="P2 No CO Power" enabled="false">
+    <code>8201AC24 0000</code>
+  </cheat>
+  <cheat type="cb" name="P3 Infinite CO Power" enabled="false">
+    <code>8201AC8C FFFF</code>
+  </cheat>
+  <cheat type="cb" name="P3 No CO Power" enabled="false">
+    <code>8201AC8C 0000</code>
+  </cheat>
+  <cheat type="cb" name="P4 Infinite CO Power" enabled="false">
+    <code>8201ACF4 FFFF</code>
+  </cheat>
+  <cheat type="cb" name="P4 No CO Power" enabled="false">
+    <code>8201ACF4 0000</code>
+  </cheat>
+</cheats>
