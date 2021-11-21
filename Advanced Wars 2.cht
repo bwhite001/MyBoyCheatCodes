@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<cheats>
+    <cheat type="cb" name="Master Code – Must Be On" enabled="false">
+        <code>00009E1F 000A</code>
+        <code>1006FD98 0007</code>
+    </cheat>
+    <cheat type="cb" name="No Fog Of War" enabled="false">
+        <code>33003FCD 0000</code>
+    </cheat>
+    <cheat type="cb" name="Always Day 1" enabled="false">
+        <code>33004080 0001</code>
+    </cheat>
+    <cheat type="cb" name="50,000 G (Shop)" enabled="false">
+        <code>8200C420 C350</code>
+    </cheat>
+    <cheat type="cb" name="50,000 G (In-Battle)" enabled="false">
+        <code>820232C0 C350</code>
+    </cheat>
+    <cheat type="cb" name="Collect 1,000 Per Win" enabled="false">
+        <code>820232F8 03E8</code>
+    </cheat>
+    <cheat type="cb" name="Press B+Up To Activate Power Mode" enabled="false">
+        <code>74000130 03BD</code>
+        <code>820232DE 0101</code>
+    </cheat>
+    <cheat type="cb" name="Press B+Down To Activate Super Mode" enabled="false">
+        <code>74000130 037D</code>
+        <code>820232DE 0202</code>
+    </cheat>
+    <cheat type="cb" name="Max Stars" enabled="false">
+        <code>320232E1 00FF</code>
+        <code>320232E2 00FF</code>
+    </cheat>
+    <cheat type="cb" name="No Stars" enabled="false">
+        <code>320232E1 0000</code>
+    </cheat>
+    <cheat type="cb" name="Always Rank S" enabled="false">
+        <code>320232F3 0005</code>
+    </cheat>
+    <cheat type="cb" name="Max Stars (Opponent)" enabled="false">
+        <code>3202331D 00FF</code>
+        <code>3202331E 00FF</code>
+    </cheat>
+    <cheat type="cb" name="No Stars (Opponent)" enabled="false">
+        <code>3202331D 0000</code>
+    </cheat>
+    <cheat type="cb" name="Unlock Hard Campaign" enabled="false">
+        <code>32028030 0001</code>
+    </cheat>
+    <cheat type="cb" name="Unlock Sound Room" enabled="false">
+        <code>32028031 0001</code>
+    </cheat>
+    <cheat type="cb" name="Have All Teams" enabled="false">
+        <code>8202805A FFFF</code>
+    </cheat>
+    <cheat type="cb" name="Have All Color Edits" enabled="false">
+        <code>8202805C FFFF</code>
+        <code>8202805E FFFF</code>
+    </cheat>
+    <cheat type="cb" name="Have All Battle Maps" enabled="false">
+        <code>42028040 FFFF</code>
+        <code>0000000D 0002</code>
+    </cheat>
+    <cheat type="cb" name="War Room Mastered" enabled="false">
+        <code>4200C078 0101</code>
+        <code>0000001E 0014</code>
+        <code>4200C07A 12C0</code>
+        <code>0000001E 0014</code>
+    </cheat>
+    <cheat type="cb" name="Infinite Health/Rounds (All Units)" enabled="false">
+        <code>42022694 94E4</code>
+        <code>00000032 000C</code>
+    </cheat>
+    <cheat type="cb" name="Infinite Rations (All Units) Note: You cannot load Carriers." enabled="false">
+        <code>42022696 0063</code>
+        <code>00000032 000C</code>
+    </cheat>
+</cheats>
