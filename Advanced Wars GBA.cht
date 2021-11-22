@@ -204,28 +204,48 @@
     <code>74000130 03FB</code>
     <code>3201A01D 00F0</code>
   </cheat>
-<cheat type="cb" name="Restart All Units Moves (Press L)" enabled="false">
-<code>74000130 01FF</code><code>32019F41 0000</code>
-<code>74000130 01FF</code><code>32019F4D 0000</code>
-<code>74000130 01FF</code><code>32019F59 0000</code>
-<code>74000130 01FF</code><code>32019F65 0000</code>
-<code>74000130 01FF</code><code>32019F71 0000</code>
-<code>74000130 01FF</code><code>32019F7D 0000</code>
-<code>74000130 01FF</code><code>32019F89 0000</code>
-<code>74000130 01FF</code><code>32019F95 0000</code>
-<code>74000130 01FF</code><code>32019FA1 0000</code>
-<code>74000130 01FF</code><code>32019FAD 0000</code>
-<code>74000130 01FF</code><code>32019FB9 0000</code>
-<code>74000130 01FF</code><code>32019FC5 0000</code>
-<code>74000130 01FF</code><code>32019FD1 0000</code>
-<code>74000130 01FF</code><code>32019FDD 0000</code>
-<code>74000130 01FF</code><code>32019FE9 0000</code>
-<code>74000130 01FF</code><code>32019FF5 0000</code>
-<code>74000130 01FF</code><code>3201A00D 0000</code>
-<code>74000130 01FF</code><code>3201A019 0000</code>
-<code>74000130 01FF</code><code>3201A025 0000</code>
-<code>74000130 01FF</code><code>3201A031 0000</code>
-</cheat>
+  <cheat type="cb" name="Restart All Units Moves (Press L)" enabled="false">
+    <code>74000130 01FF</code>
+    <code>32019F41 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F4D 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F59 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F65 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F71 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F7D 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F89 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019F95 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FA1 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FAD 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FB9 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FC5 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FD1 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FDD 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FE9 0000</code>
+    <code>74000130 01FF</code>
+    <code>32019FF5 0000</code>
+    <code>74000130 01FF</code>
+    <code>3201A00D 0000</code>
+    <code>74000130 01FF</code>
+    <code>3201A019 0000</code>
+    <code>74000130 01FF</code>
+    <code>3201A025 0000</code>
+    <code>74000130 01FF</code>
+    <code>3201A031 0000</code>
+  </cheat>
 
   <cheat type="cb" name="Enemy Unit Select 1 Codes" enabled="false">
     <code>74000130 03FB</code>
@@ -489,4 +509,3 @@
     <code>8201ACF4 0000</code>
   </cheat>
 </cheats>
-
